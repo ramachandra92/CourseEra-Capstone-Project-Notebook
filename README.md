@@ -1,1 +1,2 @@
-# CourseEra-Capstone-Project-Notebook
+# Applied-Data-Science-Capstone
+IBM Data Science Professional Certificate
